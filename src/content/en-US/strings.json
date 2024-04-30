@@ -30,9 +30,9 @@
         "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
     },
     "Navbar": {
-        "searchPlaceholder": "What are you looking for?",
+        "searchPlaceholder": "What would you like to drink today?",
         "searchButtonLabel": "search products",
-        "logoAlt": "Sample Logo",
+        "logoAlt": "Beer and Wine Logo",
         "searchIconAlt": "search icon",
         "greetingText": "Hi Junjun",
         "historyLink": "ORDER HISTORY",
