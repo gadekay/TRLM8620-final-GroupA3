@@ -5,6 +5,7 @@ let Home = {
     render : async () => {
         //fetch locale-sensitive strings via i18n method
         let welcomeSubtitle = i18n.getString("Home", "welcomeSubtitle");
+        let welcomeTitle = i18n.getString("Home", "welcomeTitle");
 
         //view is solely for HTML markup, contains no static text
         let view = `
