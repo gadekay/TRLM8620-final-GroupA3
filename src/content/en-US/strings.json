@@ -43,6 +43,7 @@
         "navLinkVehicles": "WINE"
     },
     "Home": {
+        "welcomeTitle": "Welcome to Polyglot Pours"
         "welcomeSubtitle": "Craft beer and wine with fluent flavors that speak to you.",
         "symbolAlt": "Beer Symbol"
     },

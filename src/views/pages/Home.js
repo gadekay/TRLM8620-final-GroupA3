@@ -9,7 +9,7 @@ let Home = {
         //view is solely for HTML markup, contains no static text
         let view = `
                     <section class="welcome">
-                        <h1 class="center">Welcome to Polyglot Pours!</h1>
+                        <h1 class="center">${welcomeTitle}</h1>
                         <h3 class="center white">${welcomeSubtitle}</h3>
                     </section>
                     <div class="browseGrid homeGrid">`;
