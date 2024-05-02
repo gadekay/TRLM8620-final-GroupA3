@@ -46,7 +46,7 @@ const products = {
             "title": i18n.getString("title", "4"),
             "price": 4500,
             "qty": 0,
-            "imageURL": "img/IG-88.png",
+            "imageURL": "img/light_lager.jpg",
             "desc": i18n.getString("desc", "4")
         },
         {
@@ -55,7 +55,7 @@ const products = {
             "title": i18n.getString("title", "5"),
             "price": 1000000,
             "qty": 0,
-            "imageURL": "img/Sphyrna_Corevette.png",
+            "imageURL": "img/wildwood_lager.jpg",
             "desc": i18n.getString("desc", "5")
         },
         {
