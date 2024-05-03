@@ -1,13 +1,13 @@
 {
     "title": {
-        "1": "Jodsafjknas gv",
-        "2": "Cosmic Hefe",
-        "3": "Dragon's Ember Stout",
-        "4": "Light Lager",
-        "5": "Wildwood Lager",
-        "6": "Crimson Whisper Pinot Noir",
-        "7": "Velvet Nocturne Shiraz",
-        "8": "Rosethorn Blush",
+        "1": "十胜岛 IPA",
+        "2": "宇宙啤酒",
+        "3": "龙之微光黑啤酒",
+        "4": "淡啤酒",
+        "5": "野木啤酒",
+        "6": "深红低语黑比诺",
+        "7": "天鹅绒夜曲设拉子葡萄酒",
+        "8": "罗塞通腮红",
         "9": "ETA-2 Interceptor",
         "10": "R3-Series Droid",
         "11": "T-70 X-Wing",
@@ -90,23 +90,23 @@
         "closeAlt": "关闭购物车"
     },
     "OrderHistory": {
-        "historyTitle": "Order History",
-        "dateHeading": "Date",
-        "numberHeading": "Order Number",
-        "totalHeading": "Total",
-        "statusHeading": "Status"
+        "historyTitle": "订单历史",
+        "dateHeading": "日期",
+        "numberHeading": "订单号码",
+        "totalHeading": "总计",
+        "statusHeading": "状态"
     },
     "Error404": {
-        "errorMessage": "404 Error: Page not found."
+        "errorMessage": "404 错误： 页面未找到。"
     },
     "Bottombar": {
-        "menuAlt": "open sidebar menu"
+        "menuAlt": "打开侧边栏菜单"
     },
     "LocaleSelector": {
-        "localeLabel": "Locale: ",
+        "localeLabel": "地点 ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China"
+        "localeZH": "中文（简体）-中国"
         
     },
-    "Special": "Special"
+    "Special": "特别"
 }
