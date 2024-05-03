@@ -1,0 +1,112 @@
+{
+    "title": {
+        "1": "Jodsafjknas gv",
+        "2": "Cosmic Hefe",
+        "3": "Dragon's Ember Stout",
+        "4": "Light Lager",
+        "5": "Wildwood Lager",
+        "6": "Crimson Whisper Pinot Noir",
+        "7": "Velvet Nocturne Shiraz",
+        "8": "Rosethorn Blush",
+        "9": "ETA-2 Interceptor",
+        "10": "R3-Series Droid",
+        "11": "T-70 X-Wing",
+        "12": "Adorable Chikorita Plush",
+        "13": "Adorable Pikachu Plush"
+    },
+    "desc": {
+        "1": "托卡希基岛IPA是一款精酿啤酒，捕捉了托卡希基岛天堂般的风情。柑橘和花香的混合，与顺滑的麦芽基调完美平衡。独特的异国风味啤酒花组合带来清新爽口的口味，令人回味。金黄色的色泽和像岛上温柔的海浪一样持久的泡沫，托卡希基岛IPA是您进入难忘口感之旅的门票。冲绳精神在杯中苏醒，留下难忘的回忆。",
+        "2": "宇宙小麦，这绝对是一款超越世俗的小麦啤酒。这种天体啤酒是一种和谐的星座，融合了传统小麦啤酒的麦香体和水果醚和酚酸酯的浓郁香气。每一杯都是一团朦胧的金色星云，冠以像银河一样白色的细腻泡沫。香蕉和丁香的味道在口中舞动，就像流星一样，宇宙小麦带来了顺滑清爽的口感，让你触摸星辰。它不仅是一种啤酒，更是一种超越常规的星际体验，邀请您一口一口品味宇宙。",
+        "3": "龙之烈焰黑啤，每一口都点燃冒险的精神。精心制作，带有一丝龙息的这款黑啤释放出浓郁的烘烤麦芽和黑巧克力的味道，又被淡淡的燃烧余烬般的暖意所调和。丝般顺滑的口感包裹着你的味蕾，你会被带到一个传奇生动的境界，勇气得到了回报。拥抱龙之烈焰黑啤的大胆，踏上一段值得史诗般故事的旅程。",
+        "4": "用蔷薇刺蜜的精致诱惑陶醉您的感官，这是受到龙的神秘优雅启发的优雅混合物。每一口都能感受到芳香玫瑰花瓣的轻柔拥抱，与蜂蜜般甜蜜的味道和微妙的花香轻声和谐。精心制作的蔷薇刺蜜唤起了被月光亲吻的宁静花园的景象，邀请您享受纯净宁静的时刻。让这种精致的啤酒将您带到一个美丽繁荣的领域，每一口都是对自然辉煌的赞美。",
+        "5": "拉格，世界上最受欢迎的酿酒物的典范。就像它的名字所示，独特的啤酒熊统治着北方的森林，拉格啤酒在各种酒精饮料中独占鳌头。通过底部发酵技术酿造的拉格啤酒具有清爽宜人的口感，让人流连忘返。从标志性的百威啤酒到丰富的巴伐利亚啤酒，拉格包含了各种风格，从玻克啤酒到深色啤酒和十月啤酒。像其野生对应物一样，拉格啤酒每一口都邀请着冒险和发现，是对无尽荒野精神和全球酿酒师工艺的致敬。",
+        "6": "轻啤起源于1940年代，当时科尔斯啤酒公司推出了一款名为科尔斯轻啤的啤酒，比公司的高级拉格啤酒更轻盈，并且热量更低。这个品牌在二战开始时被停产，直到1978年才重新推出。现代版本最早由莱因戈尔德公司于1967年生产，旨在吸引注重饮食的酒客，但直到1973年米勒啤酒公司收购了配方并通过“口感绝佳，低热量”活动大力推广该啤酒后才开始受到欢迎，尤其是对体育迷。",
+        "7": "用赤色低語黑比诺(Crimson Whisper Pinot Noir)揭開葡萄的秘密，這款葡萄酒低語著大地和優雅的故事。來自以其肥沃土壤和溫和氣候而聞名的原始葡萄園的收成，這款黑比诺是一個精緻而微妙的交響樂。赤色低語黑比诺以成熟的紅色漿果和精緻的花香開始，進入一個充滿多汁草莓、新鮮紫羅蘭和淡淡地下松露風味的口感。收結平衡優美，帶有淡淡的香草和柔和的單寧，提升了葡萄酒的柔滑質感。這款葡萄酒非常適合那些需要反思和放鬆的時刻。它與各種菜餚搭配得非常好，從豐盛的義大利麵到優雅的奶酪拼盤，是任何用餐場合的多功能選擇。",
+        "8": "沉浸在绒夜西拉（Velvet Nocturne Shiraz）的奢华深度中，这款葡萄酒体现了星光璀璨的神秘和魅力。这款西拉酒是由来自著名庄园阳光普照的山坡上采摘的最优质葡萄精心酿制而成，是酿酒的杰作。每一口都能品味到浓郁的黑樱桃和烟熏橡木的芳香，交织着微妙的黑胡椒和巧克力的暗示。浓郁的口感逐渐变得顺滑、柔软，留存于口腔中，承诺一次令人着迷的精致葡萄酒体验。绒夜西拉不仅适合私密聚会或作为丰盛餐点的伴侣，它不只是一瓶葡萄酒，而是一份沉浸于纯粹优雅之中的邀请。无论是独自品尝还是与伙伴共享，这款西拉都能提升任何场合的氛围，使每个夜晚都变得难忘。",
+        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
+        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
+        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
+        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
+        "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
+    },
+    "Navbar": {
+        "searchPlaceholder": "What would you like to drink today?",
+        "searchButtonLabel": "search products",
+        "logoAlt": "Beer and Wine Logo",
+        "searchIconAlt": "search icon",
+        "greetingText": "Hi Junjun",
+        "historyLink": "ORDER HISTORY",
+        "arrowAlt": "Drop Down Arrow",
+        "cartAlt": "show cart",
+        "navLinkHome": "POPULAR CHOICES",
+        "navLinkDroids": "BEER",
+        "navLinkVehicles": "WINE"
+    },
+    "Home": {
+        "welcomeTitle": "Welcome to Polyglot Pours",
+        "welcomeSubtitle": "Craft beer and wine with fluent flavors that speak to you.",
+        "symbolAlt": "Beer Symbol"
+    },
+    
+    "Checkout": {
+        "checkoutTitle": "Checkout",
+        "shipSectionLabel": "Shipping Info",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "coordinatesLabel": "Coordinates",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "Sector",
+        "methodLabel": "Shipping Method",
+        "shipLightspeed": "Fast Shipping",
+        "shipOvernight": "Overnight",
+        "shipStandard": "Standard",
+        "paySectionLabel": "Payment",
+        "payNameLabel": "Name on Card",
+        "payNameHolder": "First Last",
+        "accountLabel": "Credit Number",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "Security Code",
+        "securityHolder": "123456",
+        "expDateLabel": "Expiration Date",
+        "cartTitle": "Shopping Cart",
+        "deleteAlt": "remove item from cart",
+        "totalLabel": "Total: ",
+        "orderLabel": "PLACE ORDER",
+        "termsStatement": "I have read and agree to the Terms and Conditions",
+        "termsLink": "(View)",
+        "successMessage": "Order placed successfully!",
+        "noItemMessage": "Add items to cart to checkout."
+    },
+    "ProductShow": {
+        "qtyLabel": "Qty: ",
+        "addToCartLabel": "ADD TO CART"
+    },
+    "Cart": {
+        "cartTitle": "Shopping Cart",
+        "noItemMsg": "No items in cart.",
+        "deleteAlt": "Delete item from cart",
+        "totalTitle": "Total: ",
+        "checkoutLabel": "CHECKOUT",
+        "closeAlt": "Close Cart"
+    },
+    "OrderHistory": {
+        "historyTitle": "Order History",
+        "dateHeading": "Date",
+        "numberHeading": "Order Number",
+        "totalHeading": "Total",
+        "statusHeading": "Status"
+    },
+    "Error404": {
+        "errorMessage": "404 Error: Page not found."
+    },
+    "Bottombar": {
+        "menuAlt": "open sidebar menu"
+    },
+    "LocaleSelector": {
+        "localeLabel": "Locale: ",
+        "localeEN": "English - US",
+        "localeZH": "Chinese - China"
+        
+    },
+    "Special": "Special"
+}
