@@ -75,7 +75,9 @@
         "termsStatement": "我已阅读并同意条款和条件",
         "termsLink": "(查看)",
         "successMessage": "您已成功下单",
-        "noItemMessage": "将物品添加到购物车，然后结账。"
+        "noItemMessage": "将物品添加到购物车，然后结账。",
+        "yearSelector": "cool",
+        "monthSelector": "chinese"
     },
     "ProductShow": {
         "qtyLabel": "数量： ",
@@ -94,7 +96,10 @@
         "dateHeading": "日期",
         "numberHeading": "订单号码",
         "totalHeading": "总计",
-        "statusHeading": "状态"
+        "statusHeading": "状态",
+        "statusShipped": "cool",
+        "statusDel": "chinese",
+        "statusProc": "stuff"
     },
     "Error404": {
         "errorMessage": "404 错误： 页面未找到。"

@@ -1,5 +1,6 @@
+import { orderHistory } from "../../app.js";
 import i18n from "../../services/i18n.js";
-
+import { locale } from "../../app.js";
 
 class Order {
     constructor(total, newDate, number) {
@@ -18,14 +19,30 @@ class Order {
         this.total = total;
     }
 
+/*     getOrderDate() {
+        var dd = String(this.orderDate.getDate()).padStart(2, '0');
+        var mm = String(this.orderDate.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = this.orderDate.getFullYear();
+        let date = mm + '/' + dd + '/' + yyyy;
+        date = i18n.formatDate(date);
+        let date = "0"
+        if(locale == "en-US"){
+            date = mm + '/' + dd + '/' + yyyy;
+        }
+        else if(locale == "zh-CN"){
+            date = dd + '/' + mm + '/' + yyyy;
+        }
+        return date;
+    } */
+    
     getOrderDate() {
         var dd = String(this.orderDate.getDate()).padStart(2, '0');
         var mm = String(this.orderDate.getMonth() + 1).padStart(2, '0'); //January is 0!
         var yyyy = this.orderDate.getFullYear();
-
-        let date = mm + '/' + dd + '/' + yyyy;
-        return date;
+        const date = new Date(yyyy, this.orderDate.getMonth(), dd); // Create a Date object
+        return i18n.formatDate(date);
     }
+
 
     //create a dummy "order status" string
     getOrderStatus() {
@@ -35,13 +52,13 @@ class Order {
         var diffDays = Math.floor(Math.abs((this.orderDate.getTime() - now.getTime())/(oneDay))); //$NON-NLS-L$
 
         if(diffDays < 2) {
-            return "Processing";
+            return i18n.getString("OrderHistory", "statusProc");
         }
         if(diffDays < 4) {
-            return "Shipped"
+            return i18n.getString("OrderHistory", "statusShipped");
         }
         else{
-            return "Delivered";
+            return i18n.getString("OrderHistory", "statusDel");
         }
     }
 
