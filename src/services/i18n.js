@@ -53,6 +53,7 @@ const i18n = {
 var currencyMap = {
     'en-US': 'USD',
     'zh-CN': 'CNY',
+    'zh-TW': 'NTD'
 };
 
 //function to perform rough conversion from galactic credits to real currencies
@@ -62,6 +63,8 @@ var convertCurrency = (price) => {
             return price * 1;
         case 'zh-CN':
             return price * 7; 
+        case 'zh-TW':
+            return price * 32; 
         default:
             return price;
     }

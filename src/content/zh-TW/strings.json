@@ -110,7 +110,8 @@
     "LocaleSelector": {
         "localeLabel": "地點 ",
         "localeEN": "English - US",
-        "localeZH": "中文（繁體）-台灣"
+        "localeZH": "中文（简体）-中国",
+        "localeZHtw": "中文（繁體）-台灣"
         
     },
     "Special": "特别"

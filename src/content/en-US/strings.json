@@ -110,7 +110,8 @@
     "LocaleSelector": {
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China"
+        "localeZH": "Chinese - China",
+        "localeZHtw": "Chinese - Taiwan"
         
     },
     "Special": "Special"
