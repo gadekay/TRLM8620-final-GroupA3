@@ -1,0 +1,117 @@
+{
+    "title": {
+        "1": "托卡希基島IPA",
+        "2": "宇宙啤酒",
+        "3": "龍之微光黑啤酒",
+        "4": "淡啤酒",
+        "5": "野木啤酒",
+        "6": "深红低語黑比諾",
+        "7": "天鵝絨夜曲設拉子葡萄酒",
+        "8": "羅賽通腮紅",
+        "9": "ETA-2 Interceptor",
+        "10": "R3-Series Droid",
+        "11": "T-70 X-Wing",
+        "12": "Adorable Chikorita Plush",
+        "13": "Adorable Pikachu Plush"
+    },
+    "desc": {
+        "1": "托卡希基島IPA是一款精釀啤酒，捕捉了托卡希基島天堂般的風情。柑橘和花香的混合，與順滑的麥芽基調完美平衡。獨特的異國風味啤酒花組合帶來清新爽口的口味，令人回味。金黃色的色澤和像島上溫柔的海浪一樣持久的泡沫，托卡希基島IPA是您進入難忘口感之旅的門票。沖繩精神在杯中甦醒，留下難忘的回憶。",
+        "2": "宇宙小麥，這絕對是一款超越世俗的小麥啤酒。這種天體啤酒是一種和諧的星座，融合了傳統小麥啤酒的麥香體和水果醚和酚酸酯的濃郁香氣。每一杯都是一團朦朧的金色星雲，冠以像銀河一樣白色的細膩泡沫。香蕉和丁香的味道在口中舞動，就像流星一樣，宇宙小麥帶來了順滑清爽的口感，讓你觸摸星辰。它不僅是一種啤酒，更是一種超越常規的星際體驗，邀請您一口一口品味宇宙。",
+        "3": "龍之烈焰黑啤，每一口都點燃冒險的精神。精心製作，帶有一絲龍息的這款黑啤釋放出濃郁的烘烤麥芽和黑巧克力的味道，又被淡淡的燃燒餘燼般的暖意所調和。絲般順滑的口感包裹著你的味蕾，你會被帶到一個傳奇生動的境界，勇氣得到了回報。擁抱龍之烈焰黑啤的大膽，踏上一段值得史詩般故事的旅程。",
+        "4": "用薔薇刺蜜的精緻誘惑陶醉您的感官，這是受到龍的神秘優雅啟發的優雅混合物。每一口都能感受到芳香玫瑰花瓣的輕柔擁抱，與蜜般甜蜜的味道和微妙的花香輕聲和諧。精心製作的薔薇刺蜜喚起了被月光親吻的寧靜花園的景象，邀請您享受純淨寧靜的時刻。讓這種精緻的啤酒將您帶到一個美麗繁榮的領域，每一口都是對自然輝煌的讚美。",
+        "5": "拉格，世界上最受歡迎的釀造物的具現化。就像它的名字所示，獨特的啤酒熊統治著北方的森林，拉格啤酒在各種酒精飲料中獨占鰲頭。通過底部發酵技術釀造的拉格啤酒具有清爽宜人的口感，讓人流連忘返。從標誌性的百威啤酒到豐富的巴伐利亞啤酒，拉格包含了各種風格，從玻克啤酒到深色啤酒和十月啤酒。像其野生對應物一樣，拉格啤酒每一口都邀請著冒險和發現，是對無盡荒野精神和全球釀酒師工藝的致敬。",
+        "6": "輕啤起源於1940年代，當時科爾斯啤酒公司推出了一款名為科爾斯輕啤的啤酒，比公司的高級拉格啤酒更輕盈，並且熱量更低。這個品牌在二戰開始時被停產，直到1978年才重新推出。現代版本最早由萊因戈爾德公司於1967年生產，旨在吸引注重飲食的酒客，但直到1973年米勒啤酒公司收購了配方並通過“口感絕佳，低熱量”活動大力推廣該啤酒後才開始受到歡迎，尤其是對體育迷。",
+        "7": "用赤色低語黑比諾(Crimson Whisper Pinot Noir)揭開葡萄的秘密，這款葡萄酒低語著大地和優雅的故事。來自以其肥沃土壤和溫和氣候而聞名的原始葡萄園的收成，這款黑比諾是一個精緻而微妙的交響樂。赤色低語黑比诺以成熟的紅色漿果和精緻的花香開始，進入一個充滿多汁草莓、新鮮紫羅蘭和淡淡地下松露風味的口感。收結平衡優美，帶有淡淡的香草和柔和的單寧，提升了葡萄酒的柔滑質感。這款葡萄酒非常適合那些需要反思和放鬆的時刻。它與各種菜餚搭配得非常好，從豐盛的義大利麵到優雅的奶酪拼盤，是任何用餐場合的多功能選擇。",
+        "8": "沉浸在絨夜西拉（Velvet Nocturne Shiraz）的奢華深度中，這款葡萄酒體現了星光璀璨的神秘和魅力。這款西拉酒是由來自著名莊園陽光普照的山坡上採摘的最優質葡萄精心釀制而成，是釀酒的傑作。每一口都能品味到濃郁的黑櫻桃和煙燻橡木的芳香，交織著微妙的黑胡椒和巧克力的暗示。濃郁的口感逐漸變得順滑、柔軟，留存於口腔中，承諾一次令人著迷的精緻葡萄酒體驗。絨夜西拉不僅適合私密聚會或作為豐盛餐點的伴侶，它不只是一瓶葡萄酒，而是一份沉浸於純粹優雅之中的邀請。無論是獨自品嚐還是與夥伴共享，這款西拉都能提升任何場合的氛圍，使每個夜晚都變得難忘。",
+        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
+        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
+        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
+        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
+        "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
+    },
+    "Navbar": {
+        "searchPlaceholder": "今天想喝點什麼？",
+        "searchButtonLabel": "搜尋產品",
+        "logoAlt": "啤酒和葡萄酒標示",
+        "searchIconAlt": "搜尋標示",
+        "greetingText": "你好 君君",
+        "historyLink": "歷史連結",
+        "arrowAlt": "下拉箭頭",
+        "cartAlt": "顯示購物車",
+        "navLinkHome": "熱門選擇",
+        "navLinkDroids": "啤酒",
+        "navLinkVehicles": "葡萄酒"
+    },
+    "Home": {
+        "welcomeTitle": "歡迎来到多語言倒酒網站",
+        "welcomeSubtitle": "精酿啤酒和葡萄酒，流暢的口感與您對話。",
+        "symbolAlt": "啤酒標誌"
+    },
+    
+    "Checkout": {
+        "checkoutTitle": "結帳",
+        "shipSectionLabel": "出貨訊息",
+        "firstNameLabel": "姓名",
+        "lastNameLabel": "姓",
+        "coordinatesLabel": "地址",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "國家",
+        "methodLabel": "運送方式",
+        "shipLightspeed": "快速運送",
+        "shipOvernight": "隔日送達",
+        "shipStandard": "標準送達",
+        "paySectionLabel": "付款",
+        "payNameLabel": "持卡人姓名",
+        "payNameHolder": "姓",
+        "accountLabel": "信用卡號碼",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "安全碼",
+        "securityHolder": "123456",
+        "expDateLabel": "到期日期",
+        "cartTitle": "購物車",
+        "deleteAlt": "從購物車中删除商品",
+        "totalLabel": "總計： ",
+        "orderLabel": "下單",
+        "termsStatement": "我已閱讀並同意條款和條件",
+        "termsLink": "(查看)",
+        "successMessage": "您已成功下單",
+        "noItemMessage": "將物品添加到購物車，然后結帳。",
+        "yearSelector": "cool",
+        "monthSelector": "chinese"
+    },
+    "ProductShow": {
+        "qtyLabel": "數量： ",
+        "addToCartLabel": "加入購物車"
+    },
+    "Cart": {
+        "cartTitle": "購物車",
+        "noItemMsg": "購物車空空如也",
+        "deleteAlt": "從購物車中删除商品",
+        "totalTitle": "總計",
+        "checkoutLabel": "結帳",
+        "closeAlt": "關閉購物車"
+    },
+    "OrderHistory": {
+        "historyTitle": "訂單歷史",
+        "dateHeading": "日期",
+        "numberHeading": "訂單號碼",
+        "totalHeading": "總計",
+        "statusHeading": "狀態",
+        "statusShipped": "cool",
+        "statusDel": "chinese",
+        "statusProc": "stuff"
+    },
+    "Error404": {
+        "errorMessage": "404 錯誤： 頁面未找到。"
+    },
+    "Bottombar": {
+        "menuAlt": "打開側邊選項"
+    },
+    "LocaleSelector": {
+        "localeLabel": "地點 ",
+        "localeEN": "English - US",
+        "localeZH": "中文（繁體）-台灣"
+        
+    },
+    "Special": "特别"
+}
