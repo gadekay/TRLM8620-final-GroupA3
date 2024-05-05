@@ -3,9 +3,10 @@ import i18n from "../../services/i18n.js";
 
 //takes a number and adds commas to it every 3 digits
 //VERY BAD i18n
-let formatCurrencyWithCommas = (x) => {
+//unnecessary after replacing it with i18n.formatCurrency()
+/* let formatCurrencyWithCommas = (x) => {
     return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-}
+} */
 
 let OrderHistory = {
 
