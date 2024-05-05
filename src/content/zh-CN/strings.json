@@ -76,8 +76,8 @@
         "termsLink": "(查看)",
         "successMessage": "您已成功下单",
         "noItemMessage": "将物品添加到购物车，然后结账。",
-        "yearSelector": "cool",
-        "monthSelector": "chinese"
+        "yearSelector": "年",
+        "monthSelector": "月"
     },
     "ProductShow": {
         "qtyLabel": "数量： ",

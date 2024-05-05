@@ -76,8 +76,8 @@
         "termsLink": "(查看)",
         "successMessage": "您已成功下單",
         "noItemMessage": "將物品添加到購物車，然后結帳。",
-        "yearSelector": "cool",
-        "monthSelector": "chinese"
+        "yearSelector": "年",
+        "monthSelector": "月"
     },
     "ProductShow": {
         "qtyLabel": "數量： ",
@@ -97,9 +97,9 @@
         "numberHeading": "訂單號碼",
         "totalHeading": "總計",
         "statusHeading": "狀態",
-        "statusShipped": "cool",
-        "statusDel": "chinese",
-        "statusProc": "stuff"
+        "statusShipped": "已出貨",
+        "statusDel": "已送達",
+        "statusProc": "訂單處理中"
     },
     "Error404": {
         "errorMessage": "404 錯誤： 頁面未找到。"
