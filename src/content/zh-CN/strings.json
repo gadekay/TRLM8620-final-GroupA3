@@ -101,6 +101,11 @@
         "statusDel": "chinese",
         "statusProc": "stuff"
     },
+    "Browse": {
+        "all": "全部",
+        "droids": "啤酒",
+        "vehicles": "葡萄酒"        
+    },    
     "Error404": {
         "errorMessage": "404 错误： 页面未找到。"
     },
