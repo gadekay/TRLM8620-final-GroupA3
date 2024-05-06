@@ -97,9 +97,9 @@
         "numberHeading": "订单号码",
         "totalHeading": "总计",
         "statusHeading": "状态",
-        "statusShipped": "cool",
-        "statusDel": "chinese",
-        "statusProc": "stuff"
+        "statusShipped": "已出货",
+        "statusDel": "已送达",
+        "statusProc": "订单处理中"
     },
     "Browse": {
         "all": "全部",
