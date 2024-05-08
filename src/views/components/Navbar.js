@@ -24,6 +24,7 @@ let Navbar = {
         let localeEN = i18n.getString("LocaleSelector", "localeEN");
         let localeZH = i18n.getString("LocaleSelector", "localeZH");
         let localeZHtw = i18n.getString("LocaleSelector", "localeZHtw");
+        let localeJA = i18n.getString("LocaleSelector", "localeJA");
 
 
         //view is solely for HTML markup, contains no static text
@@ -58,6 +59,7 @@ let Navbar = {
                 <option value="en-US">${localeEN}</option>
                 <option value="zh-CN">${localeZH}</option>
                 <option value="zh-TW">${localeZHtw}</option>
+                <option value="ja-JP">${localeJA}</option>
               </select>
             </div>
         </section>
