@@ -114,9 +114,9 @@
     "LocaleSelector": {
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China",
-        "localeZHtw": "Chinese - Taiwan",
-        "localeJA": "Japanese - Japan"
+        "localeZH": "中文（简体）-中国",
+        "localeZHtw": "中文（繁體）-台灣",
+        "localeJA": "日本語 - 日本"
     },
     "Special": "Special"
 }
