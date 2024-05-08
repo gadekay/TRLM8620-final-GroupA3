@@ -24,14 +24,6 @@ class Order {
         var mm = String(this.orderDate.getMonth() + 1).padStart(2, '0'); //January is 0!
         var yyyy = this.orderDate.getFullYear();
         let date = mm + '/' + dd + '/' + yyyy;
-        date = i18n.formatDate(date);
-        let date = "0"
-        if(locale == "en-US"){
-            date = mm + '/' + dd + '/' + yyyy;
-        }
-        else if(locale == "zh-CN"){
-            date = dd + '/' + mm + '/' + yyyy;
-        }
         return date;
     } */
     
