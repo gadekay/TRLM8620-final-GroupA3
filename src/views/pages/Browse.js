@@ -14,13 +14,13 @@ let Browse = {
 
         let title = i18n.getString("Browse", "all");
 
-        if(type == "droids") {
-            productMap = productList.get('droids');
-            title += i18n.getString("Browse", "droids");
+        if(type == "beers") {
+            productMap = productList.get('beers');
+            title += i18n.getString("Browse", "beers");
         }
-        else if(type == "vehicles") {
-            productMap = productList.get('vehicles');
-            title += i18n.getString("Browse", "vehicles");
+        else if(type == "wines") {
+            productMap = productList.get('wines');
+            title += i18n.getString("Browse", "wines");
         }
 
         //view is solely for HTML markup, contains no static text

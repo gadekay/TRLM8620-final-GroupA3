@@ -68,8 +68,8 @@ let Navbar = {
         <!-- nav links here -->
         <ul>
             <li><a href="./#/" class="navLink" id="">${navLinkHome}</a></li>
-            <li><a href="./#/droids" class="navLink" id="droids">${navLinkDroids}</a></li>
-            <li><a href="./#/vehicles" class="navLink" id="vehicles">${navLinkVehicles}</a></li>
+            <li><a href="./#/beers" class="navLink" id="beers">${navLinkDroids}</a></li>
+            <li><a href="./#/wines" class="navLink" id="wines">${navLinkVehicles}</a></li>
         </ul>
     </nav>
     `;

@@ -84,8 +84,8 @@ var updateLocale = async(newLocale) => {
 var reloadCart = () => {
 
     //get references to droid and vehicle map
-    let droidMap = productList.get("droids");
-    let vehicleMap = productList.get("vehicles");
+    let droidMap = productList.get("beers");
+    let vehicleMap = productList.get("wines");
 
     for(let key in shoppingCart) {
         let product = shoppingCart[key];
@@ -114,15 +114,15 @@ var saveCart = () => {
     localStorage.setItem("cart", JSON.stringify(cartIds));
 }
 
-//map of maps to hold both vehicles and droids
+//map of maps to hold both wines and beers
 var productList = new Map();
-productList.set("droids", new Map());
-productList.set("vehicles", new Map());
+productList.set("beers", new Map());
+productList.set("wines", new Map());
 
 //function to get products and push to map
 let getProductsList = async() => {
-    let droidMap = productList.get("droids");
-    let vehicleMap = productList.get("vehicles");
+    let droidMap = productList.get("beers");
+    let vehicleMap = productList.get("wines");
 
     //clear em out
     droidMap.clear();
@@ -155,8 +155,8 @@ var readCart = () => {
     if(localStorage.getItem("cart") !== null) {
         console.log("found cart in storage, reconstructing...");
 
-        let droidMap = productList.get("droids");
-        let vehicleMap = productList.get("vehicles");
+        let droidMap = productList.get("beers");
+        let vehicleMap = productList.get("wines");
 
         let cartIdString = localStorage.getItem("cart");
         let cartIds = JSON.parse(cartIdString);
@@ -209,8 +209,8 @@ let featuredProducts = [];
 let getFeaturedProducts = async () => {
     featuredProducts = [];
 
-    let vehicleMap = productList.get('vehicles');
-    let droidMap = productList.get('droids');
+    let vehicleMap = productList.get('wines');
+    let droidMap = productList.get('beers');
    
     featuredProducts.push(vehicleMap.get(5));
     featuredProducts.push(droidMap.get(1));
@@ -223,10 +223,10 @@ export { shoppingCart, addToCart, showCart, router, locale, productList, updateL
 // List of supported routes. Any url other than these routes will throw a 404 error
 const routes = {
     './' : Home, 
-    './droids' : Browse,
-    './droids/:id' : ProductShow,
-    './vehicles' : Browse,
-    './vehicles/:id' : ProductShow,
+    './beers' : Browse,
+    './beers/:id' : ProductShow,
+    './wines' : Browse,
+    './wines/:id' : ProductShow,
     './history' : OrderHistory,
     './checkout' : Checkout
 };
@@ -247,7 +247,7 @@ const router = async () => {
     const ham = null || document.querySelector('.hamSlider');
 
     //grab products from JSON file
-    if(productList.get("droids").size == 0 && productList.get("vehicles").size == 0) {
+    if(productList.get("beers").size == 0 && productList.get("wines").size == 0) {
         await getProductsList();
     }
     
