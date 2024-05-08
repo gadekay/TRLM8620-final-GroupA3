@@ -47,7 +47,6 @@
         "welcomeSubtitle": "精酿啤酒和葡萄酒，流畅的口感与您对话。",
         "symbolAlt": "啤酒标志"
     },
-    
     "Checkout": {
         "checkoutTitle": "结账",
         "shipSectionLabel": "发货信息",
@@ -104,8 +103,8 @@
     "Browse": {
         "all": "全部",
         "droids": "啤酒",
-        "vehicles": "葡萄酒"        
-    },    
+        "vehicles": "葡萄酒"
+    },
     "Error404": {
         "errorMessage": "404 错误： 页面未找到。"
     },
@@ -116,8 +115,8 @@
         "localeLabel": "地点 ",
         "localeEN": "English - US",
         "localeZH": "中文（简体）-中国",
-        "localeZHtw": "中文（繁體）-台灣"
-        
+        "localeZHtw": "中文（繁體）-台灣",
+        "localeJA": "日本語 - 日本"
     },
     "Special": "特别"
 }

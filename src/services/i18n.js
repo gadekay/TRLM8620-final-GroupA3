@@ -32,7 +32,7 @@ const i18n = {
     formatCurrency: (price, color) => {
         let formatted;
         let converted = convertCurrency(price);
-        formatted = new Intl.NumberFormat(locale, { style: 'currency', currency: currencyMap[locale] }).format(converted); //$NON-NLS-L$ 
+        formatted = new Intl.NumberFormat(locale, { style: 'currency', currency: currencyMap[locale] }).format(converted); //$NON-NLS-L$
         //return the formatted currency within template literal
         return `<h4>${formatted}</h4>`
 
@@ -40,7 +40,7 @@ const i18n = {
     },
     //return the locale based link to html file within the 'static' folder
     getHTML: () => {
-        return `${locale}/terms.html`; //$NON-NLS-L$ 
+        return `${locale}/terms.html`; //$NON-NLS-L$
     },
     //format date accoring to locale
     formatDate: (date) => {
@@ -53,7 +53,8 @@ const i18n = {
 var currencyMap = {
     'en-US': 'USD',
     'zh-CN': 'CNY',
-    'zh-TW': 'NTD'
+    'zh-TW': 'NTD',
+    'ja-JP': 'JPY'
 };
 
 //function to perform rough conversion from galactic credits to real currencies
@@ -62,9 +63,11 @@ var convertCurrency = (price) => {
         case 'en-US':
             return price * 1;
         case 'zh-CN':
-            return price * 7; 
+            return price * 7;
         case 'zh-TW':
-            return price * 32; 
+            return price * 32;
+        case 'ja-JP':
+            return price * 110;
         default:
             return price;
     }

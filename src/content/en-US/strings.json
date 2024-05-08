@@ -47,7 +47,6 @@
         "welcomeSubtitle": "Craft beer and wine with fluent flavors that speak to you.",
         "symbolAlt": "Beer Symbol"
     },
-    
     "Checkout": {
         "checkoutTitle": "Checkout",
         "shipSectionLabel": "Shipping Info",
@@ -104,7 +103,7 @@
     "Browse": {
         "all": "All ",
         "droids": "BEER",
-        "vehicles": "WINE"        
+        "vehicles": "WINE"
     },
     "Error404": {
         "errorMessage": "404 Error: Page not found."
@@ -116,8 +115,8 @@
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
         "localeZH": "Chinese - China",
-        "localeZHtw": "Chinese - Taiwan"
-        
+        "localeZHtw": "Chinese - Taiwan",
+        "localeJA": "Japanese - Japan"
     },
     "Special": "Special"
 }
