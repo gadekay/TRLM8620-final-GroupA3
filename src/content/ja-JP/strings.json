@@ -102,8 +102,8 @@
     },
     "Browse": {
         "all": "すべて",
-        "droids": "ビール",
-        "vehicles": "ワイン"
+        "beers": "ビール",
+        "wines": "ワイン"
     },
     "Error404": {
         "errorMessage": "404エラー：ページが見つかりません。"

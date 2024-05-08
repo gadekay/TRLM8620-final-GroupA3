@@ -102,8 +102,8 @@
     },
     "Browse": {
         "all": "All ",
-        "droids": "BEER",
-        "vehicles": "WINE"
+        "beers": "BEER",
+        "wines": "WINE"
     },
     "Error404": {
         "errorMessage": "404 Error: Page not found."
