@@ -30,9 +30,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  body {
-  margin: 0;
-  padding: 0;
   background-image: url(https://github.com/gadekay/TRLM8620-final-GroupA3/blob/main/src/img/background.jpg?raw=true);
   background-size: cover; /* Cover the entire page */
     background-position: center; /* Center the background image */
