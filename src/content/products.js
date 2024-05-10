@@ -12,7 +12,7 @@ const products = {
 
         productCatalog = [{
             "productID" : 1,
-            "type": "droid",
+            "type": "beer",
             "class": 2,
             "title": i18n.getString("title", "1"),
             "price": 9,
@@ -22,7 +22,7 @@ const products = {
         },
         {
             "productID" : 2,
-            "type": "droid",
+            "type": "beer",
             "class": 4,
             "title": i18n.getString("title", "2"),
             "price": 10,
@@ -32,7 +32,7 @@ const products = {
         },
         {
             "productID" : 3,
-            "type": "droid",
+            "type": "beer",
             "class": 1,
             "title": i18n.getString("title", "3"),
             "price": 12,
@@ -42,7 +42,7 @@ const products = {
         },
         {
             "productID" : 4,
-            "type": "droid",
+            "type": "beer",
             "title": i18n.getString("title", "4"),
             "price": 8,
             "qty": 0,
@@ -51,7 +51,7 @@ const products = {
         },
         {
             "productID" : 5,
-            "type": "vehicle",
+            "type": "wine",
             "title": i18n.getString("title", "5"),
             "price": 60,
             "qty": 0,
@@ -60,7 +60,7 @@ const products = {
         },
         {
             "productID" : 6,
-            "type": "droid",
+            "type": "beer",
             "title": i18n.getString("title", "6"),
             "price": 10,
             "qty": 0,
@@ -69,7 +69,7 @@ const products = {
         },
         {
             "productID" : 7,
-            "type": "vehicle",
+            "type": "wine",
             "title": i18n.getString("title", "7"),
             "price": 80,
             "qty": 0,
@@ -78,7 +78,7 @@ const products = {
         },
         {
             "productID" : 8,
-            "type": "vehicle",
+            "type": "wine",
             "title": i18n.getString("title", "8"),
             "price": 70,
             "qty": 0,
@@ -88,7 +88,7 @@ const products = {
         /*
         {
             "productID" : 9,
-            "type": "vehicle",
+            "type": "wine",
             "title": i18n.getString("title", "9"),
             "price": 200000,
             "qty": 0,
@@ -97,7 +97,7 @@ const products = {
         },
         {
             "productID" : 10,
-            "type": "droid",
+            "type": "beer",
             "title": i18n.getString("title", "10"),
             "price": 3450,
             "qty": 0,
@@ -106,7 +106,7 @@ const products = {
         },
         {
             "productID" : 11,
-            "type": "vehicle",
+            "type": "wine",
             "title": i18n.getString("title", "11"),
             "price": 150000,
             "qty": 0,
@@ -115,7 +115,7 @@ const products = {
         },
         {
             "productID" : 12,
-            "type": "vehicle",
+            "type": "wine",
             "title": i18n.getString("title", "12"),
             "price": 134999,
             "qty": 0,
@@ -124,7 +124,7 @@ const products = {
         },
         {
             "productID" : 13,
-            "type": "droid",
+            "type": "beer",
             "title": i18n.getString("title", "13"),
             "price": 4999,
             "qty": 0,

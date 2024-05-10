@@ -90,7 +90,7 @@ var reloadCart = () => {
     for(let key in shoppingCart) {
         let product = shoppingCart[key];
         let saveQty;
-        if(product.type == "droid") {
+        if(product.type == "beer") {
             saveQty = product.qty;
             shoppingCart[product.productID] = droidMap.get(product.productID);
             shoppingCart[product.productID].qty = saveQty;
@@ -132,10 +132,10 @@ let getProductsList = async() => {
 
     for(let item of productsJSON) {
         //loop through parsed json and add to either droid Map or vehicle Map
-        if(item.type == "droid") {
+        if(item.type == "beer") {
             droidMap.set(item.productID, item);
         }
-        else if(item.type == "vehicle") {
+        else if(item.type == "wine") {
             vehicleMap.set(item.productID, item);
         }
     }
@@ -162,7 +162,7 @@ var readCart = () => {
         let cartIds = JSON.parse(cartIdString);
 
         for(let productAr of cartIds) {
-            if(productAr[1] == 'droid') { //$NON-NLS-L$
+            if(productAr[1] == 'beer') { //$NON-NLS-L$
                 let product = droidMap.get(parseInt(productAr[0]));
                 product.qty = parseInt(productAr[2]);
                 shoppingCart[productAr[0]] = product;

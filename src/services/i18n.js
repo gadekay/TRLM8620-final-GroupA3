@@ -32,7 +32,11 @@ const i18n = {
     formatCurrency: (price, color) => {
         let formatted;
         let converted = convertCurrency(price);
-        formatted = new Intl.NumberFormat(locale, { style: 'currency', currency: currencyMap[locale] }).format(converted); //$NON-NLS-L$
+        formatted = new Intl.NumberFormat(locale, { 
+            style: 'currency', 
+            currency: currencyMap[locale]['unit'],
+            maximumFractionDigits: currencyMap[locale]['digits']
+        }).format(converted); //$NON-NLS-L$
         //return the formatted currency within template literal
         return `<h4>${formatted}</h4>`
 
@@ -51,10 +55,22 @@ const i18n = {
 
 //used to determine the correct currency symbol
 var currencyMap = {
-    'en-US': 'USD',
-    'zh-CN': 'CNY',
-    'zh-TW': 'NTD',
-    'ja-JP': 'JPY'
+    'en-US': {
+        'unit': 'USD',
+        'digits': 2
+    },
+    'zh-CN': {
+        'unit': 'CNY',
+        'digits': 2
+    },    
+    'zh-TW': {
+        'unit': 'NTD',
+        'digits': 0
+    },    
+    'ja-JP': {
+        'unit': 'JPY',
+        'digits': 0
+    }    
 };
 
 //function to perform rough conversion from galactic credits to real currencies
