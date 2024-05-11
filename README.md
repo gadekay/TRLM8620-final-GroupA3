@@ -28,13 +28,7 @@ Existing Functionality: While we have the flexibility to add more functionality,
 Locales:
 
 
-English
-
-Simplified Chinese
-
-Traditional Chinese
-
-Japanese
+English, Simplified Chinese, Traditional Chinese, Japanese
 
 
 Localization Process:
