@@ -24,12 +24,18 @@ Website Structure: Our website retains the following components: Logo, Search Bo
 
 Existing Functionality: While we have the flexibility to add more functionality, we have maintained the core features of the original application.
 
+
 Locales:
 
+
 English
+
 Simplified Chinese
+
 Traditional Chinese
+
 Japanese
+
 
 Localization Process:
 
@@ -40,12 +46,18 @@ Modified Code for New Locales in the src Folder.
 Configured Date, Currency Symbol, and Conversion for Each Locale in i18n.js.
 
 
+
 Initial i18n Issues has been addressed:
 
 Hard-Coded Strings
+
 String Concatenation
+
 Locale-Specific Date Format
+
 These issues were resolved during the testing stage.
+
+
 
 Get Started
 
