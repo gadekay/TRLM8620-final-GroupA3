@@ -15,11 +15,13 @@ GitHub Repository: https://github.com/gadekay/TRLM8620-final-GroupA3
 Changes Made:
 
 Logo and Product Images: We have replaced the default images with high-quality images of our wine and beer products.
+
 Text Strings: We have modified all English text strings to enhance the appeal and relevance of our website content. Changes were made in the en-US string.json file.
 
 Unchanged Components:
 
 Website Structure: Our website retains the following components: Logo, Search Box, 3 Tabs (Home, Wine, Beer), Order History, Locale Selector, Shopping Cart, Order Placement Page, and Terms and Conditions Static Page.
+
 Existing Functionality: While we have the flexibility to add more functionality, we have maintained the core features of the original application.
 
 Locales:
@@ -32,7 +34,9 @@ Japanese
 Localization Process:
 
 Updated LocaleSelector Section in strings.json.
+
 Modified Code for New Locales in the src Folder.
+
 Configured Date, Currency Symbol, and Conversion for Each Locale in i18n.js.
 
 
