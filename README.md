@@ -49,16 +49,16 @@ Configured Date, Currency Symbol, and Conversion for Each Locale in i18n.js.
 
 Initial i18n Issues has been addressed:
 
-Hard-Coded Strings
+√ Hard-Coded Strings
 
-String Concatenation
+√ String Concatenation
 
-Locale-Specific Date Format
+√ Locale-Specific Date Format
 
-These issues were resolved during the testing stage.
+√ These issues were resolved during the testing stage.
 
 
 
 Get Started
 
-To explore our website and experience our diverse selection of wines and beers, visit Ployglot Pours. Cheers!Insert stuff for our process here
+To explore our website and experience our diverse selection of wines and beers, visit Ployglot Pours. Cheers!
